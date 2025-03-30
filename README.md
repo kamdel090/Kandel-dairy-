@@ -1,4 +1,4 @@
-# Kandel Dairy - Facial Symmetry Analyzer
+# Kandel Dairy
 
 ## About Kandel Dairy
 
