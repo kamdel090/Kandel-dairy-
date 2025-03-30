@@ -21,24 +21,3 @@ At Kandel Dairy, we are committed to providing our customers with wholesome and 
 
 We are dedicated to serving our community with high-quality dairy products that you can trust. Whether you are a household, a restaurant, or a retail business, Kandel Dairy is here to fulfill all your dairy needs.
 
-## Facial Symmetry Analyzer
-
-### Overview
-The **Facial Symmetry Analyzer** is a website that allows users to upload images and analyze their facial symmetry. By using advanced image processing algorithms, the website measures facial features and provides personalized suggestions for improving symmetry.
-
-### Features
-- **Facial Analysis:** Upload an image to analyze facial symmetry.
-- **Personalized Recommendations:** Based on the analysis, the website provides tips for improving facial symmetry.
-- **User-friendly Interface:** Easy to navigate, with simple instructions for uploading and analyzing images.
-
-## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python (Flask)
-- **Libraries/Frameworks:** TensorFlow, OpenCV, Bootstrap
-
-## Installation Instructions
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/username/project-name.git
-   
